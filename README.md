@@ -1,4 +1,4 @@
-# Olimpíada Brasileira de Linguística - 2021 📖
+# Olimpíada Brasileira de Linguística 📖
 ## Baqir ELO
 #### Autor: Rian Pereira Fernandes
 ---
